@@ -11,3 +11,7 @@
 function fib(n) {}
 
 module.exports = fib;
+
+
+// jest fib/test.js --watch to run tests
+// control c to exit
